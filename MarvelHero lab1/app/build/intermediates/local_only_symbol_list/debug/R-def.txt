@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color darkGray
+color lighterGay
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable apocalypse
+drawable captainamerica
+drawable deadpool
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ironman
+drawable marvel
+drawable nebula
+drawable peggycarter
+drawable scarletwitch
+drawable sif
+drawable spiderman
+drawable storm
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string choose_your_hero
+style Theme.ChooseYourHero
+xml backup_rules
+xml data_extraction_rules

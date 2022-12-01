@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_storm.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/storm.jpg"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/xml_data_extraction_rules.xml.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_scarletwitch.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/scarletwitch.jpg"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_ic_launcher_background.xml.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/xml_backup_rules.xml.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_apocalypse.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/apocalypse.jpg"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_peggycarter.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/peggycarter.jpg"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_spiderman.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/spiderman.jpg"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_captainamerica.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/captainamerica.jpg"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_sif.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/sif.jpg"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_ironman.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/ironman.jpg"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_nebula.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/nebula.jpg"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_marvel.png.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/marvel.png"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "practice.effective.MarvelHero.app-merged_res-37:/drawable_deadpool.jpg.flat",
+        "source": "practice.effective.MarvelHero.app-main-39:/drawable/deadpool.jpg"
+    }
+]
